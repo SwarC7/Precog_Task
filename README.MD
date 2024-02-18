@@ -40,3 +40,5 @@ Note that while working with the object detection task certain parts of the code
 
 20.train.jsonl: jsonl file required for initialising the training dataset for the hateful-meme classification task.
 
+21.ASSUMPTION:Some of the directories such as dataset_hate, datasets/coco128, img and meme_classifier are too big to be uploaded into github and will be taken directly from local storage during evaluation.
+
